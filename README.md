@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Saravanan</h1>
 
-<h3 align="center">Full-Stack Software Developer | .NET | C# | React | Angular</h3>
+<h3 align="center">Full-Stack Software Developer | .NET | C#  | Angular</h3>
 
 <p align="center">
   Building reliable backend systems, REST APIs, and modern web applications.
